@@ -1,0 +1,11 @@
+# requirements.txt
+streamlit
+langchain
+langchain-google-genai
+chromadb
+langchain-community
+pydantic
+protobuf==3.20.3
+langchainhub
+st-audiorec
+google-generativeai

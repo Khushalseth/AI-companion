@@ -1,0 +1,4 @@
+# config.py
+GOOGLE_API_KEY = "AIzaSyCqNapRFA-H_8vZUWFKipC9kpxueF9hWBM"
+LANGSMITH_API_KEY= "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"
+TAVILY_API_KEY = "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"
